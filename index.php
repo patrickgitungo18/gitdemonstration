@@ -9,6 +9,7 @@
 		<?php
 			echo "Welcome to my page!!!";
 
+				echo "Grade 12 IT1 Students";
 		?>
 </body>
 </html>
