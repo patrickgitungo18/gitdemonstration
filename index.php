@@ -1,5 +1,14 @@
-<?php
-	echo "Hello World!";	
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Student Infprmation System</title>
+</head>
+<body>
+		<h1>Student Information System</h1>
 
-	echo "Welcome to ICI!!!"
-?>
+		<?php
+			echo "Welcome to my page!!!";
+
+		?>
+</body>
+</html>
